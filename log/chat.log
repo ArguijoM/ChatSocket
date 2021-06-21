@@ -1,0 +1,19 @@
+2021-06-08 08:29:34,113 [main] INFO  Servidor.ServidorChat - Servidor a la espera de conexiones.
+2021-06-08 08:29:47,273 [main] INFO  Cliente.ClienteChat - Quieres conectarte a localhost en el puerto 1234 con el nombre de ususario: Manuel.
+2021-06-08 08:29:47,309 [main] INFO  Servidor.ServidorChat - Cliente con la IP 127.0.0.1 conectado.
+2021-06-08 08:29:47,311 [main] INFO  Servidor.ServidorChat - Servidor a la espera de conexiones.
+2021-06-08 08:30:02,151 [main] INFO  Cliente.ClienteChat - Quieres conectarte a localhost en el puerto 1234 con el nombre de ususario: Arguijo.
+2021-06-08 08:30:02,167 [main] INFO  Servidor.ServidorChat - Cliente con la IP 127.0.0.1 conectado.
+2021-06-08 08:30:02,168 [main] INFO  Servidor.ServidorChat - Servidor a la espera de conexiones.
+2021-06-08 08:30:15,012 [Thread-1] INFO  Servidor.ConexionCliente - Cliente con la IP 127.0.0.1 desconectado.
+2021-06-08 08:30:17,380 [main] ERROR Cliente.ClienteChat - Error al leer del stream de entrada: Connection reset
+2021-06-09 17:41:20,854 [main] INFO  Servidor.ServidorChat - Servidor a la espera de conexiones.
+2021-06-09 17:42:12,488 [main] INFO  Cliente.ClienteChat - Quieres conectarte a 192.168.1.78 en el puerto 1234 con el nombre de ususario: Manuel.
+2021-06-09 17:42:12,528 [main] INFO  Servidor.ServidorChat - Cliente con la IP Argelos conectado.
+2021-06-09 17:42:12,532 [main] INFO  Servidor.ServidorChat - Servidor a la espera de conexiones.
+2021-06-09 17:42:39,536 [main] INFO  Cliente.ClienteChat - Quieres conectarte a 192.168.1.78 en el puerto 1234 con el nombre de ususario: Arguijo.
+2021-06-09 17:42:39,555 [main] INFO  Servidor.ServidorChat - Cliente con la IP Argelos conectado.
+2021-06-09 17:42:39,556 [main] INFO  Servidor.ServidorChat - Servidor a la espera de conexiones.
+2021-06-09 17:43:08,827 [Thread-0] INFO  Servidor.ConexionCliente - Cliente con la IP Argelos desconectado.
+2021-06-09 17:43:10,134 [Thread-1] INFO  Servidor.ConexionCliente - Cliente con la IP Argelos desconectado.
+2021-06-21 08:56:38,720 [main] ERROR clientechat.ConexionServidor - El socket no se creo correctamente. 
